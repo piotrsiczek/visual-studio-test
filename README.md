@@ -1,2 +1,1 @@
-visual-studio-test
-==================
+Visual Studio Git Test
